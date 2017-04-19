@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1446667744 source:h:\cspace\我的第一个c语言项目\main.c
+	<stdio.h>
+	<stdlib.h>
+
